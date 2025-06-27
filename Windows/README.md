@@ -9,3 +9,18 @@ A Python-based application designed and optimized for Windows systems. This proj
 =======
 This project is developed using Python and designed specifically to work efficiently on Windows OS. It demonstrates [add your goals or technologies used, e.g., file automation, GUI interfaces with Tkinter/PyQt, integration with Windows services, etc.].
 
+
+
+# Features
+==========
+* Windows-compatible execution
+
+* Easy setup using Python
+
+* GUI interface (if any)
+
+* Lightweight and fast
+
+* [Any other key feature]
+
+
