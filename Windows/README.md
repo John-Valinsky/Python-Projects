@@ -21,6 +21,5 @@ This project is developed using Python and designed specifically to work efficie
 
 * Lightweight and fast
 
-* [Any other key feature]
 
 
