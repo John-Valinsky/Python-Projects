@@ -32,3 +32,5 @@ No frameworks. No abstractions. Just pure sockets.
 
 * Connects to www.google.com on port 80.
 
+* Sends a raw HTTP GET / request.
+
