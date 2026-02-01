@@ -37,3 +37,9 @@ Each project is self-contained, well-documented, and built for educational and p
 * Parrot OS
 
 * Arch Linux
+
+
+# Getting Started
+```bash
+git clone https://github.com/John-Valinsky/Python-Projects
+```
