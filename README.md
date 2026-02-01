@@ -11,3 +11,6 @@ This repo contains Python projects that:
 
 * Work on Windows & Linux.
 
+* Interact with OS-level components.
+
+* 
