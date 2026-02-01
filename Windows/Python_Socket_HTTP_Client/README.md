@@ -94,3 +94,5 @@ Expected output:
 	* Redirects (301 / 302)
 
 	* Minimal content
+
+* For HTTPS, ssl wrapping is required.
