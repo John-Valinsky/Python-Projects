@@ -34,3 +34,5 @@ No frameworks. No abstractions. Just pure sockets.
 
 * Sends a raw HTTP GET / request.
 
+* Receives the server response.
+
