@@ -27,3 +27,5 @@ The projects are built with an emphasis on:
 
 
 # Features
+
+* Fully Windows-compatible.
