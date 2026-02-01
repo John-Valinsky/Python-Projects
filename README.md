@@ -20,3 +20,6 @@ This repo contains Python projects that:
 * Help learners understand Python from beginner to advanced.
 
 Each project is self-contained, well-documented, and built for educational and practical use.
+
+
+# Supported Operating Systems
