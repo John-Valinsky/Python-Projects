@@ -13,3 +13,4 @@ These projects focus on system interaction, automation, and learning core Python
 
 # About
 
+This repository contains Python applications developed specifically for Windows OS, leveraging Python’s ability to interact with the operating system efficiently.
