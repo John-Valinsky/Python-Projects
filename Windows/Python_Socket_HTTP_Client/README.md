@@ -63,4 +63,12 @@ client.close()
 
 # Requirements
 
- 
+* Python 3.x
+
+* Internet connection
+
+* Works on:
+
+	* Windows
+
+	* Linux
