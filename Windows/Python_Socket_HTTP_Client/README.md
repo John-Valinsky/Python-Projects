@@ -78,3 +78,8 @@ client.close()
 ```bash
 python socket_http_client.py
 ```
+Expected output:
+
+* Raw HTTP response headers
+
+* HTML content of Google’s homepage (or a redirect response)
