@@ -5,3 +5,5 @@
 ![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
 
 # Python Socket HTTP Client
+
+A simple Python socket-based HTTP client that demonstrates how to manually send an HTTP request and receive a response from a web server using low-level networking.
