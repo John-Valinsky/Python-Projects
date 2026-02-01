@@ -15,4 +15,4 @@ This repo contains Python projects that:
 
 * Explore security, forensics, and monitoring concepts.
 
-* 
+* Automate repetitive system tasks.
