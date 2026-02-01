@@ -17,3 +17,4 @@ This repository contains Python applications developed specifically for Windows 
 
 The projects are built with an emphasis on:
 
+* Practical implementation.
