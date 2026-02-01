@@ -36,3 +36,5 @@ The projects are built with an emphasis on:
 
 * Lightweight and efficient execution.
 
+* Well-suited for learning and experimentation.
+
