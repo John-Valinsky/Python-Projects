@@ -19,3 +19,5 @@ This script helps you understand:
 
 * How HTTP requests look at the raw protocol level.
 
+* Client–server communication without external libraries.
+
