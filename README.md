@@ -52,4 +52,4 @@ These projects are for educational and defensive purposes only.
 
 * The author is not responsible for misuse.
 
-* Malware analysis or monitoring tools should be tested inside virtual machines.
+* Tested inside virtual machines.
