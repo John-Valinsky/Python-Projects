@@ -34,3 +34,5 @@ The projects are built with an emphasis on:
 
 * Supports CLI and GUI-based tools.
 
+* Lightweight and efficient execution.
+
