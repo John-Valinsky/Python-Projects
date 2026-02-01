@@ -7,3 +7,7 @@ This repository focuses on system utilities, automation tools, security experime
 
 # About This Repository
 
+This repo contains Python projects that:
+
+* Work on Windows & Linux.
+
