@@ -18,3 +18,5 @@ This repo contains Python projects that:
 * Automate repetitive system tasks.
 
 * Help learners understand Python from beginner to advanced.
+
+Each project is self-contained, well-documented, and built for educational and practical use.
