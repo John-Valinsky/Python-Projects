@@ -9,3 +9,7 @@
 A collection of Python-based projects designed, tested, and optimized for Windows environments.
 
 These projects focus on system interaction, automation, and learning core Python concepts with real-world use cases.
+
+
+# About
+
