@@ -9,3 +9,6 @@
 A simple Python socket-based HTTP client that demonstrates how to manually send an HTTP request and receive a response from a web server using low-level networking.
 
 This project connects to google.com over port 80, sends a raw HTTP GET request, and prints the server’s response.
+
+
+# About the Project
