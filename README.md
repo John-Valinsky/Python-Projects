@@ -1,1 +1,1 @@
-# Python-Projects
+# Python Projects for Windows & Linux
