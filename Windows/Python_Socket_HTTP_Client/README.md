@@ -30,3 +30,5 @@ No frameworks. No abstractions. Just pure sockets.
 
 * Creates a TCP socket.
 
+* Connects to www.google.com on port 80.
+
