@@ -27,3 +27,6 @@ No frameworks. No abstractions. Just pure sockets.
 
 
 # How It Works
+
+* Creates a TCP socket.
+
