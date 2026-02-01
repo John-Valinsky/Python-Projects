@@ -83,3 +83,7 @@ Expected output:
 * Raw HTTP response headers
 
 * HTML content of Google’s homepage (or a redirect response)
+
+
+# Important Notes
+
