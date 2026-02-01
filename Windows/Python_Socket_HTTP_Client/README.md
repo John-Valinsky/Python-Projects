@@ -14,3 +14,6 @@ This project connects to google.com over port 80, sends a raw HTTP GET request, 
 # About the Project
 
 This script helps you understand:
+
+* How TCP sockets work in Python
+
