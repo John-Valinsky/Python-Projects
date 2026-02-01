@@ -21,3 +21,4 @@ This script helps you understand:
 
 * Client–server communication without external libraries.
 
+* Basics of networking useful for cybersecurity & forensics.
