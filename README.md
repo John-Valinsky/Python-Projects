@@ -23,3 +23,17 @@ Each project is self-contained, well-documented, and built for educational and p
 
 
 # Supported Operating Systems
+
+* OS	Supported
+
+* Windows 10 / 11	
+
+* Windows Server	
+
+* Ubuntu / Debian	
+
+* Kali Linux	
+
+* Parrot OS
+
+* Arch Linux
