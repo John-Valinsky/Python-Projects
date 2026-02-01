@@ -13,4 +13,6 @@ This repo contains Python projects that:
 
 * Interact with OS-level components.
 
+* Explore security, forensics, and monitoring concepts.
+
 * 
