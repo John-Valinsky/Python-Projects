@@ -88,3 +88,9 @@ Expected output:
 # Important Notes
 
 * This script uses HTTP, not HTTPS.
+
+* Modern websites may respond with:
+
+	* Redirects (301 / 302)
+
+	* Minimal content
