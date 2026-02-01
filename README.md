@@ -43,3 +43,7 @@ Each project is self-contained, well-documented, and built for educational and p
 ```bash
 git clone https://github.com/John-Valinsky/Python-Projects
 ```
+
+# Security Notice
+
+These projects are for educational and defensive purposes only.
