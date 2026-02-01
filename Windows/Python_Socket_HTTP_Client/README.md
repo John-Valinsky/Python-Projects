@@ -22,3 +22,8 @@ This script helps you understand:
 * Client–server communication without external libraries.
 
 * Basics of networking useful for cybersecurity & forensics.
+
+No frameworks. No abstractions. Just pure sockets.
+
+
+# How It Works
