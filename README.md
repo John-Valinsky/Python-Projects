@@ -47,3 +47,9 @@ git clone https://github.com/John-Valinsky/Python-Projects
 # Security Notice
 
 These projects are for educational and defensive purposes only.
+
+* Do NOT use them on systems you do not own or have permission to test.
+
+* The author is not responsible for misuse.
+
+* Malware analysis or monitoring tools should be tested inside virtual machines.
