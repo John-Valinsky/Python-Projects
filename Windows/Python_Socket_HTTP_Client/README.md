@@ -87,3 +87,4 @@ Expected output:
 
 # Important Notes
 
+* This script uses HTTP, not HTTPS.
