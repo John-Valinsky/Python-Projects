@@ -21,3 +21,6 @@ The projects are built with an emphasis on:
 
 * Clean and readable code.
 
+* Beginner-to-intermediate learning.
+
+
