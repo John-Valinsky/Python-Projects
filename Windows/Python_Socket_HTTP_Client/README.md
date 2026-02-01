@@ -36,3 +36,9 @@ No frameworks. No abstractions. Just pure sockets.
 
 * Receives the server response.
 
+* Prints the HTML content returned by the server.
+
+* Closes the connection.
+
+
+
