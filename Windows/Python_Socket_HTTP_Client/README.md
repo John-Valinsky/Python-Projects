@@ -17,3 +17,5 @@ This script helps you understand:
 
 * How TCP sockets work in Python
 
+* How HTTP requests look at the raw protocol level.
+
