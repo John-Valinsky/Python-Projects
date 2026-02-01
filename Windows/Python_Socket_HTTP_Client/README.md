@@ -75,3 +75,6 @@ client.close()
 
 
 # How to Run
+```bash
+python socket_http_client.py
+```
