@@ -7,7 +7,7 @@
 # Python Project for Windows
 ============================
 
-A Python-based application designed and optimized for Windows systems. This project serves as a.
+A Python-based application designed and optimized for Windows systems.
 
 
 # About
