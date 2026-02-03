@@ -50,6 +50,23 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 ```bash
 https://github.com/John-Valinsky/Python-Projects/tree/main/Windows
 ```
+Run the script normally (admin not required initially):
+```bash
+python blocker.py
+```
+You’ll be prompted for the executable path
+
+Once confirmed, the script will:
+
+* Elevate permissions (if needed).
+
+* Apply firewall rules.
+
+* Block all network access for that executable.
+
+
+# Example Firewall Rules Created
+
 
 
 
