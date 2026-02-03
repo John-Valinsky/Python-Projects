@@ -13,3 +13,5 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 * Targets a specific executable (not system-wide).
 
+* Simple command-line interface.
+
