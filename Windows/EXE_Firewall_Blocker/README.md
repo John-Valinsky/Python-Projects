@@ -34,3 +34,10 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 * Applies rules using PowerShell (New-NetFirewallRule).
 
+
+# Requirements
+
+
+
+
+
