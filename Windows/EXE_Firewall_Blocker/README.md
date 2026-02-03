@@ -99,3 +99,5 @@ Open PowerShell as Administrator and run:
 # Use Cases
 
 * Malware analysis & sandboxing.
+
+* Blocking telemetry or unwanted updates.
