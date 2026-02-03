@@ -83,3 +83,10 @@ Open PowerShell as Administrator and run:
 * Remove-NetFirewallRule -DisplayName "BLOCK OUTBOUND App.exe"
 
 * Remove-NetFirewallRule -DisplayName "BLOCK INBOUND App.exe"
+
+
+# Security Notes
+
+* This tool does NOT modify the executable.
+
+* 
