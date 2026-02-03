@@ -22,3 +22,5 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 * Checks if the script is running as Administrator.
 
+* If not, it relaunches itself with UAC elevation.
+
