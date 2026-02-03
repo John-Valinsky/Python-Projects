@@ -101,3 +101,6 @@ Open PowerShell as Administrator and run:
 * Malware analysis & sandboxing.
 
 * Blocking telemetry or unwanted updates.
+
+* Application isolation.
+
