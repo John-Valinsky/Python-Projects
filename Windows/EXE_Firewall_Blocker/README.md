@@ -67,7 +67,19 @@ Once confirmed, the script will:
 
 # Example Firewall Rules Created
 
+* BLOCK OUTBOUND App.exe
+
+* BLOCK INBOUND App.exe
+
+These can be viewed or removed from:
+
+Windows Defender Firewall -> Advanced Settings -> Outbound / Inbound Rules
 
 
+# How to Remove the Rules
 
+Open PowerShell as Administrator and run:
 
+* Remove-NetFirewallRule -DisplayName "BLOCK OUTBOUND App.exe"
+
+* Remove-NetFirewallRule -DisplayName "BLOCK INBOUND App.exe"
