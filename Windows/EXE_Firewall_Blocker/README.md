@@ -89,4 +89,6 @@ Open PowerShell as Administrator and run:
 
 * This tool does NOT modify the executable.
 
-* 
+* No packet interception or monitoring.
+
+* Uses official Windows APIs only.
