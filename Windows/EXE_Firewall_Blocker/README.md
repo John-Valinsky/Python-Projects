@@ -104,3 +104,4 @@ Open PowerShell as Administrator and run:
 
 * Application isolation.
 
+* Digital forensics labs.
