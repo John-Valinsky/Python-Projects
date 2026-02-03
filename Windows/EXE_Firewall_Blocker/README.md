@@ -37,6 +37,13 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 # Requirements
 
+* Windows 10 / 11
+
+* Python 3.7+
+
+* Administrator privileges.
+
+* Windows Defender Firewall enabled.
 
 
 
