@@ -16,3 +16,7 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 * Simple command-line interface.
 
 * Fast & silent firewall rule creation.
+
+
+# How It Works
+
