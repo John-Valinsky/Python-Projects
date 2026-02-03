@@ -92,3 +92,5 @@ Open PowerShell as Administrator and run:
 * No packet interception or monitoring.
 
 * Uses official Windows APIs only.
+
+* Safe for forensic, defensive, and lab environments.
