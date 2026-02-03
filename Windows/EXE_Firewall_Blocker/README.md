@@ -5,3 +5,4 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 # Features
 
+* Automatically requests Administrator privileges.
