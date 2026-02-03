@@ -46,5 +46,11 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 * Windows Defender Firewall enabled.
 
 
+# Installation
+```bash
+https://github.com/John-Valinsky/Python-Projects/tree/main/Windows
+```
+
+
 
 
