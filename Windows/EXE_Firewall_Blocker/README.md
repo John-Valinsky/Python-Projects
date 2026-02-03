@@ -94,3 +94,8 @@ Open PowerShell as Administrator and run:
 * Uses official Windows APIs only.
 
 * Safe for forensic, defensive, and lab environments.
+
+
+# Use Cases
+
+* Malware analysis & sandboxing.
