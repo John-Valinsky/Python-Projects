@@ -6,3 +6,8 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 # Features
 
 * Automatically requests Administrator privileges.
+
+* Blocks both inbound & outbound network traffic.
+
+* Uses native Windows Firewall (no third-party tools).
+
