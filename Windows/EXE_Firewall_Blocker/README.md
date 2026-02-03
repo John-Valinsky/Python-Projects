@@ -1,8 +1,8 @@
 <!-- PROJECT SHIELDS -->
-![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Windows/EXE_Firewall_Blocker)
-![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Windows/EXE_Firewall_Blocker)
-![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Windows/EXE_Firewall_Blocker)
-![Stars](https://img.shields.io/github/stars/John-Valinsky/Windows/EXE_Firewall_Blocker)
+![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Windows/EXE_Firewall_Blocker/)
+![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Windows/EXE_Firewall_Blocker/)
+![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Windows/EXE_Firewall_Blocker/)
+![Stars](https://img.shields.io/github/stars/John-Valinsky/Windows/EXE_Firewall_Blocker/)
 
 # Windows EXE Firewall Blocker
 
