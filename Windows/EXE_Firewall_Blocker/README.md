@@ -20,3 +20,5 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 # How It Works
 
+* Checks if the script is running as Administrator.
+
