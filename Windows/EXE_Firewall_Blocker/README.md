@@ -25,3 +25,12 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 * If not, it relaunches itself with UAC elevation.
 
 * Prompts the user for the full path to an .exe file.
+
+* Creates two firewall rules:
+
+	* Outbound traffic blocked.
+
+	* Inbound traffic blocked.
+
+* Applies rules using PowerShell (New-NetFirewallRule).
+
