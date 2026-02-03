@@ -11,3 +11,5 @@ A Python-based Windows utility that automatically blocks any executable’s inte
 
 * Uses native Windows Firewall (no third-party tools).
 
+* Targets a specific executable (not system-wide).
+
