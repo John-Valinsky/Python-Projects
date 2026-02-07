@@ -80,3 +80,6 @@ pip install pyautogui keyboard
 * If you enter a faster value, it will auto-adjust.
 
 * Invalid input defaults to 0.1 seconds.
+
+
+# Example Use Cases
