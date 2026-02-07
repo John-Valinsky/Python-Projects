@@ -10,3 +10,6 @@ It types character by character, supports custom typing speed, shows start/end t
 * Reads text directly from a file.
 
 * Simulates real-time typing.
+
+* Customizable typing speed (with safety limit).
+
