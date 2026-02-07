@@ -92,3 +92,4 @@ pip install pyautogui keyboard
 
 * Repetitive text input (non-malicious use).
 
+* Content drafting assistance.
