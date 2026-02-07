@@ -49,3 +49,10 @@ pip install pyautogui keyboard
 
 * You provide the path to a text file
 
+* Set:
+
+	* Typing speed (seconds per character).
+
+	* Delay time to position your cursor.
+
+* 
