@@ -7,3 +7,5 @@ It types character by character, supports custom typing speed, shows start/end t
 
 # Features
 
+* Reads text directly from a file.
+
