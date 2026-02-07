@@ -36,3 +36,6 @@ It types character by character, supports custom typing speed, shows start/end t
 ```bash
 pip install pyautogui keyboard
 ```
+
+
+# Note 
