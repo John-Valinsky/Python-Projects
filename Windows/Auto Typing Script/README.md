@@ -39,3 +39,7 @@ pip install pyautogui keyboard
 
 
 # Note 
+
+* Run the script with Administrator privileges on Windows for keyboard detection to work properly.
+
+* 
