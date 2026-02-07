@@ -67,3 +67,5 @@ pip install pyautogui keyboard
 * Run the script.
 
 * Enter the text file path.
+
+* Enter typing speed (minimum 0.05 seconds).
