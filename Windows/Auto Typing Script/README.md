@@ -90,3 +90,5 @@ pip install pyautogui keyboard
 
 * Educational simulations.
 
+* Repetitive text input (non-malicious use).
+
