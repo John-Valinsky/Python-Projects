@@ -26,3 +26,6 @@ It types character by character, supports custom typing speed, shows start/end t
 	* Total duration (H:M:S)
 
 * ASCII banner for a cool terminal look.
+
+
+# Requirements
