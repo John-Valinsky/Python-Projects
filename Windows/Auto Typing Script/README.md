@@ -83,3 +83,6 @@ pip install pyautogui keyboard
 
 
 # Example Use Cases
+
+* Typing large notes automatically.
+
