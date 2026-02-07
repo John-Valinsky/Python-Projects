@@ -96,3 +96,5 @@ pip install pyautogui keyboard
 
 
 # Safety Notes
+
+* Do NOT use this for spamming or violating platform policies.
