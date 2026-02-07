@@ -47,3 +47,5 @@ pip install pyautogui keyboard
 
 # How It Works
 
+* You provide the path to a text file
+
