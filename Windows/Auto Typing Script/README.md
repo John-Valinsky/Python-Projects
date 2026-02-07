@@ -88,3 +88,5 @@ pip install pyautogui keyboard
 
 * Demonstrations or presentations.
 
+* Educational simulations.
+
