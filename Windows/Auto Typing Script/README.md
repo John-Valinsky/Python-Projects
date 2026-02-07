@@ -24,3 +24,5 @@ It types character by character, supports custom typing speed, shows start/end t
 	* End time
 
 	* Total duration (H:M:S)
+
+* ASCII banner for a cool terminal look.
