@@ -98,3 +98,5 @@ pip install pyautogui keyboard
 # Safety Notes
 
 * Do NOT use this for spamming or violating platform policies.
+
+* Always know where your cursor is before typing starts.
