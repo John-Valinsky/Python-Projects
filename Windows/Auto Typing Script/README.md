@@ -60,3 +60,6 @@ pip install pyautogui keyboard
 * The script starts typing automatically.
 
 * Press ESC anytime to stop.
+
+
+# Usage
