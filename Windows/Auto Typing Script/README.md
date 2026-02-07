@@ -13,3 +13,4 @@ It types character by character, supports custom typing speed, shows start/end t
 
 * Customizable typing speed (with safety limit).
 
+* Cursor setup delay before typing starts.
