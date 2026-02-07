@@ -55,4 +55,4 @@ pip install pyautogui keyboard
 
 	* Delay time to position your cursor.
 
-* 
+* Place the cursor in any app (editor, browser, terminal, etc.).
