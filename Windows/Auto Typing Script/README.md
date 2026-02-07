@@ -86,3 +86,5 @@ pip install pyautogui keyboard
 
 * Typing large notes automatically.
 
+* Demonstrations or presentations.
+
