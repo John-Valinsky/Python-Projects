@@ -63,3 +63,5 @@ pip install pyautogui keyboard
 
 
 # Usage
+
+* Run the script
