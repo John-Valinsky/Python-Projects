@@ -64,4 +64,6 @@ pip install pyautogui keyboard
 
 # Usage
 
-* Run the script
+* Run the script.
+
+* Enter the text file path.
