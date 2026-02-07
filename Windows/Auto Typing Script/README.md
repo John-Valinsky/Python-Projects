@@ -29,3 +29,5 @@ It types character by character, supports custom typing speed, shows start/end t
 
 
 # Requirements
+
+* Make sure you have Python 3.x installed.
