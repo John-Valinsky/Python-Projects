@@ -74,3 +74,5 @@ pip install pyautogui keyboard
 
 
 # Typing Speed Rules
+
+* Minimum allowed delay: 0.05 seconds.
