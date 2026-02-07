@@ -58,3 +58,5 @@ pip install pyautogui keyboard
 * Place the cursor in any app (editor, browser, terminal, etc.).
 
 * The script starts typing automatically.
+
+* Press ESC anytime to stop.
