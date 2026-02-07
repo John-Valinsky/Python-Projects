@@ -43,3 +43,7 @@ pip install pyautogui keyboard
 * Run the script with Administrator privileges on Windows for keyboard detection to work properly.
 
 * This script controls your keyboard — use responsibly.
+
+
+# How It Works
+
