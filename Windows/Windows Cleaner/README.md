@@ -25,3 +25,6 @@ Win_Clean is a lightweight Python utility for Windows that quickly opens common 
 * %temp% - User temporary files
 
 * prefetch - C:\Windows\Prefetch
+
+
+# Requirements
