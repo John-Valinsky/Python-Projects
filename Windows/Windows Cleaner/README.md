@@ -40,3 +40,4 @@ Win_Clean is a lightweight Python utility for Windows that quickly opens common 
 
 * This tool does not delete files automatically — it only opens folders and utilities.
 
+* Be careful when deleting system files; remove only what you recognize.
