@@ -51,3 +51,4 @@ Win_Clean is a lightweight Python utility for Windows that quickly opens common 
 
 * Maintenance scripts.
 
+* IT support workflows.
