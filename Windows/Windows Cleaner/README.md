@@ -38,3 +38,5 @@ Win_Clean is a lightweight Python utility for Windows that quickly opens common 
 
 # Notes
 
+* This tool does not delete files automatically — it only opens folders and utilities.
+
