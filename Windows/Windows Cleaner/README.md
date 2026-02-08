@@ -1,3 +1,6 @@
 # Win_Clean
 
 Win_Clean is a lightweight Python utility for Windows that quickly opens common system cleanup folders and launches the built-in Disk Cleanup tool. It’s designed for fast access to temp files and maintenance locations without digging through directories manually.
+
+
+# Features
