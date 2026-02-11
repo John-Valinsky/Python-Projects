@@ -7,3 +7,7 @@ It lets you run a server and multiple clients in the terminal and chat in real t
 Messages are color-coded for clarity, and everything runs directly in the console.
 
 
+# Features
+
+* Real-time terminal chat over LAN.
+
