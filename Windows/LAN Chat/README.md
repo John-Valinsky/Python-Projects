@@ -63,3 +63,22 @@ When running as server
 	* Broadcasts shutdown message.
 
 	* Stops the server.
+
+
+# Client Mode
+
+When running as client:
+
+* Enter the server IP address.
+
+* Connects to the chat instantly.
+
+* Messages:
+
+	* Your messages - green
+
+	* Others / server - red
+
+* Typing /quit
+
+	* Leaves the chat cleanly.
