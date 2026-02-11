@@ -11,3 +11,29 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 * Real-time terminal chat over LAN.
 
+* Multi-client support using threading.
+
+* Color-coded messages.
+
+	* Server messages - red
+
+	* Client messages - green
+
+* Works on any OS that supports Python sockets.
+
+* No external dependencies.
+
+* Simple host / connect workflow.
+
+
+# Requirements
+
+* Python 3.x
+
+* Devices must be on the same local network.
+
+* Open port: 5555.
+
+
+# How It Works
+
