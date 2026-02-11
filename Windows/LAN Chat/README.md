@@ -47,3 +47,19 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 
 # Server Mode
+
+When running as server
+
+* Displays your local IP address.
+
+* Listens on port 5555.
+
+* Accepts multiple clients.
+
+* Can send messages directly from the terminal.
+
+* Typing /quit
+	
+	* Broadcasts shutdown message.
+
+	* Stops the server.
