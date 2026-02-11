@@ -37,3 +37,10 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 # How It Works
 
+* One user starts the server.
+
+* Other users connect as clients.
+
+* All messages are broadcast to everyone.
+
+* yping /quit exits (or shuts down the server).
