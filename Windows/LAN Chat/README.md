@@ -93,3 +93,14 @@ When running as client:
 * Server binds to 0.0.0.0 (all interfaces).
 
 * IP auto-detected using UDP socket trick.
+
+
+# Limitations
+
+* No encryption (plaintext chat).
+
+* LAN only (not internet-exposed).
+
+* No authentication.
+
+* No message history.
