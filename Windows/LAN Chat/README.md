@@ -44,3 +44,6 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 * All messages are broadcast to everyone.
 
 * yping /quit exits (or shuts down the server).
+
+
+# Server Mode
