@@ -82,3 +82,14 @@ When running as client:
 * Typing /quit
 
 	* Leaves the chat cleanly.
+
+
+# Networking Notes
+
+* Uses TCP sockets.
+
+* Default port: 5555.
+
+* Server binds to 0.0.0.0 (all interfaces).
+
+* IP auto-detected using UDP socket trick.
