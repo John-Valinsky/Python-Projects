@@ -15,3 +15,4 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 
 * Special shortcut to use the script’s own directory.
 
+* Skips folders that already exist.
