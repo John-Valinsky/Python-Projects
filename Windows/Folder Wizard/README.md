@@ -18,3 +18,5 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 * Skips folders that already exist.
  
 * Clean terminal output with status messages.
+
+* Uses only Python standard libraries.
