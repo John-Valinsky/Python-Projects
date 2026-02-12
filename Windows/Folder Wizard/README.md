@@ -1,2 +1,5 @@
 # Folder Series Generator
 
+A simple Python utility that creates a numbered series of folders in any location you choose — fast, clean, and perfect for organizing projects, batches, or datasets.
+
+Includes a slick ASCII banner and smart defaults to keep things smooth.
