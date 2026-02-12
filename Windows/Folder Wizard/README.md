@@ -11,3 +11,4 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 
 * Custom base name (Project-1, Project-2, etc.).
 
+* Choose any folder location.
