@@ -23,3 +23,7 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 
 
 # Requirements
+
+* Python 3.6
+
+* Works on Windows, macOS, and Linux.
