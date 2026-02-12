@@ -20,3 +20,6 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 * Clean terminal output with status messages.
 
 * Uses only Python standard libraries.
+
+
+# Requirements
