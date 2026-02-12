@@ -27,3 +27,5 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 * Python 3.6
 
 * Works on Windows, macOS, and Linux.
+
+No external dependencies required.
