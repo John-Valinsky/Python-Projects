@@ -35,3 +35,5 @@ Designed for simple, unattended file duplication on Windows.
 * Files are copied in the background.
 
 * A DONE file is created when complete.
+
+* Target files are copied into - "Your Files/".
