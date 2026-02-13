@@ -10,3 +10,6 @@ Designed for simple, unattended file duplication on Windows.
 # Features
 
 * Prompts user for a source directory.
+
+* Copies all files and subfolders.
+
