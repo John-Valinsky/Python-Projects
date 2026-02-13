@@ -31,3 +31,5 @@ Designed for simple, unattended file duplication on Windows.
 * Confirm with any key.
 
 * Console window hides.
+
+* Files are copied in the background.
