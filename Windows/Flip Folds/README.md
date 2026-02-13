@@ -57,3 +57,5 @@ Designed for simple, unattended file duplication on Windows.
 * ctypes
 
 * msvcrt
+
+No external dependencies required.
