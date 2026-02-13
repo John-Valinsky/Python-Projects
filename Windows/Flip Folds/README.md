@@ -66,3 +66,5 @@ No external dependencies required.
 * Windows-only (uses ctypes and msvcrt).
 
 * Errors during copying are silently ignored.
+
+* Existing files may be overwritten.
