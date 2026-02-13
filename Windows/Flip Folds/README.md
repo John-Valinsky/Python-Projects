@@ -43,3 +43,4 @@ Designed for simple, unattended file duplication on Windows.
 
 * Windows OS
 
+* Python 3.8+ (if running as a script).
