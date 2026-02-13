@@ -1,3 +1,9 @@
+<!-- PROJECT SHIELDS -->
+![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Python-Projects)
+![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Python-Projects)
+![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Python-Projects)
+![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
+
 # Background File Copier (Windows)
 
 A lightweight Python utility that asks for a source path, then silently copies all files and folders to a local directory in the background.
