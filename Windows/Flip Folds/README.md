@@ -14,3 +14,5 @@ Designed for simple, unattended file duplication on Windows.
 * Copies all files and subfolders.
 
 * Runs silently after confirmation.
+
+* Automatically creates a target folder.
