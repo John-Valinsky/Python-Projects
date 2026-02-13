@@ -29,3 +29,5 @@ Designed for simple, unattended file duplication on Windows.
 * Enter a source path when prompted.
 
 * Confirm with any key.
+
+* Console window hides.
