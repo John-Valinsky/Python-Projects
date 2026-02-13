@@ -20,3 +20,9 @@ Designed for simple, unattended file duplication on Windows.
 * Drops a DONE file when finished.
 
 * Skips copy errors without stopping.
+
+
+# How It Works
+
+* Launch the script (or compiled .exe).
+
