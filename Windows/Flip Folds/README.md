@@ -68,3 +68,5 @@ No external dependencies required.
 * Errors during copying are silently ignored.
 
 * Existing files may be overwritten.
+
+* No progress indicator or logging.
