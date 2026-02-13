@@ -26,3 +26,5 @@ Designed for simple, unattended file duplication on Windows.
 
 * Launch the script (or compiled .exe).
 
+* Enter a source path when prompted.
+
