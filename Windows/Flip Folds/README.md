@@ -36,4 +36,4 @@ Designed for simple, unattended file duplication on Windows.
 
 * A DONE file is created when complete.
 
-* Target files are copied into - "Your Files/".
+* Target files are copied into - "Your Files/" located in the same directory as the script or executable.
