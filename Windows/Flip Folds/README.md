@@ -33,3 +33,5 @@ Designed for simple, unattended file duplication on Windows.
 * Console window hides.
 
 * Files are copied in the background.
+
+* A DONE file is created when complete.
