@@ -5,3 +5,6 @@ A lightweight Python utility that asks for a source path, then silently copies a
 When finished, it creates a DONE file and exits automatically.
 
 Designed for simple, unattended file duplication on Windows.
+
+
+# Features
