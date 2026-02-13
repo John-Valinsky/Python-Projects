@@ -18,3 +18,5 @@ Designed for simple, unattended file duplication on Windows.
 * Automatically creates a target folder.
 
 * Drops a DONE file when finished.
+
+* Skips copy errors without stopping.
