@@ -59,3 +59,7 @@ Designed for simple, unattended file duplication on Windows.
 * msvcrt
 
 No external dependencies required.
+
+
+# Limitations
+
