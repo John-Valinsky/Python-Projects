@@ -63,3 +63,5 @@ No external dependencies required.
 
 # Limitations
 
+* Windows-only (uses ctypes and msvcrt).
+
