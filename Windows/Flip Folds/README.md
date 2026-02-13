@@ -40,3 +40,6 @@ Designed for simple, unattended file duplication on Windows.
 
 
 # Requirements
+
+* Windows OS
+
