@@ -51,3 +51,5 @@ Output
 
 * Uses tkinter for GUI components.
 
+* Exception handling prevents invalid input crashes.
+
