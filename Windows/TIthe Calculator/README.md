@@ -61,3 +61,6 @@ Output
 * Add currency selection.
 
 * Save calculation history.
+
+* Percentage slider.
+
