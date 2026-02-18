@@ -17,3 +17,13 @@ A simple Python desktop application built with Tkinter to calculate tithe amount
 
 
 # Preview
+
+Inputs
+
+	* Income
+
+	* Tithe Percentage
+
+Output
+
+	* Calculated Tithe Amount
