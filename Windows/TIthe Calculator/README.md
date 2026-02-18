@@ -8,3 +8,6 @@ A simple Python desktop application built with Tkinter to calculate tithe amount
 * Easy-to-use graphical interface.
 
 * Calculates tithe based on income and percentage.
+
+* Default tithe percentage set to 10%.
+
