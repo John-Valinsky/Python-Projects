@@ -57,3 +57,6 @@ Output
 
 
 # Future Improvements
+
+* Add currency selection.
+
