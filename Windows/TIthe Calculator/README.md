@@ -11,3 +11,5 @@ A simple Python desktop application built with Tkinter to calculate tithe amount
 
 * Default tithe percentage set to 10%.
 
+* Displays result formatted in Indian Rupees (₹).
+
