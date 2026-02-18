@@ -34,3 +34,8 @@ Output
 * Python 3.x.
 
 * Tkinter (included with standard Python installations).
+
+
+# How It Works
+
+* Enter your income.
