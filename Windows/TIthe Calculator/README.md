@@ -14,3 +14,6 @@ A simple Python desktop application built with Tkinter to calculate tithe amount
 * Displays result formatted in Indian Rupees (₹).
 
 * Input validation with error alerts.
+
+
+# Preview
