@@ -39,3 +39,9 @@ Output
 # How It Works
 
 * Enter your income.
+
+* Enter the tithe percentage (default is 10%).
+
+* Click Calculate.
+
+* The app displays the tithe amount instantly.
