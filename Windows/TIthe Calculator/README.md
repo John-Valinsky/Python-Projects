@@ -64,3 +64,4 @@ Output
 
 * Percentage slider.
 
+* Dark mode UI.
