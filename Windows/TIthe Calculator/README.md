@@ -49,3 +49,5 @@ Output
 
 # Code Highlights
 
+* Uses tkinter for GUI components.
+
