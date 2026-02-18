@@ -30,3 +30,7 @@ Output
 
 
 # Requirements
+
+* Python 3.x.
+
+* Tkinter (included with standard Python installations).
