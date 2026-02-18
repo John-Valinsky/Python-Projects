@@ -53,3 +53,4 @@ Output
 
 * Exception handling prevents invalid input crashes.
 
+* Clean separation between UI and calculation logic.
