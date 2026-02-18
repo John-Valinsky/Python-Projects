@@ -45,3 +45,7 @@ Output
 * Click Calculate.
 
 * The app displays the tithe amount instantly.
+
+
+# Code Highlights
+
