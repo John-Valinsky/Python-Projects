@@ -4,3 +4,5 @@ A simple Python desktop application built with Tkinter to calculate tithe amount
 
 
 # Features
+
+* Easy-to-use graphical interface.
