@@ -91,5 +91,20 @@ if __name__ == "__main__":
     keyword = input("\nEnter the keyword or pattern to search for (*File*): ").strip()
     location = input("Enter the directory to search in (C:\\): ").strip()
 
+   # Default location to C: drive if no location is entered
+    if not location:
+        location = "C:\\"
+        print("\nNo directory specified, defaulting to C:\\ drive.")
+
+    search_type_input = input("Do you want to search for files or directories? (f/d): ").strip().lower()
+
+    # Map the search type input to actual terms
+    search_type = "file" if search_type_input == "f" else "directory" if search_type_input == "d" else None
+
+    # Validate input
+    if search_type is None:
+        print("Invalid choice. Please specify 'f' for files or 'd' for directories.")
+    elif location in drives or os.path.isdir(location):
+        output = search_items(keyword, location, search_type)
 
 
