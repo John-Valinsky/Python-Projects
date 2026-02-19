@@ -17,3 +17,13 @@ import time
 import string
 from ctypes import windll
 import re
+
+def get_available_drives():
+    """Returns a list of available drives in the system."""
+    drives = []
+    bitmask = windll.kernel32.GetLogicalDrives()
+    for letter in string.ascii_uppercase:
+        if bitmask & 1:
+            drives.append(f"{letter}:\\        |")
+        bitmask >>= 1
+    return drives
