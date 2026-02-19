@@ -28,4 +28,6 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 -----------------------------------------------------------------------------
 ```
 
+# How It Works
+
 
