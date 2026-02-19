@@ -67,3 +67,15 @@ def search_items(keyword, location, search_type):
             output += f"\033[31mNo {search_type}s found with the given pattern.\033[0m\n"
             print(f"\033[31mNo {search_type}s found with the given pattern.\033[0m")  # Red text
 
+   # Display total time taken
+        end_time = time.time()
+        time_taken = f"\n\033[31mSearch completed in {end_time - start_time:.2f} seconds.\033[0m"
+        output += time_taken
+        print(time_taken)  # Red text
+
+        return output  # Return output to be saved later
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
+
