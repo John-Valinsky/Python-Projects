@@ -4,3 +4,5 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 
 
 # Features
+
+* Windows drive detection (automatically lists available drives).
