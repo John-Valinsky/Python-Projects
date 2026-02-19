@@ -39,3 +39,19 @@ def save_output_to_file(output, filename):
         print(f"Output has been saved to {filename}")
     except Exception as e:
         print(f"An error occurred while saving the file: {e}")
+
+def search_items(keyword, location, search_type):
+    """Searches for files or directories matching the keyword."""
+    try:
+        print(f"\nSearching for {search_type}s with pattern '{keyword}' in '{location}'...\n")
+        start_time = time.time()  # Record start time
+        found_items = []
+        output = ""  # Initialize output variable
+
+        # Walk through the directory and subdirectories
+        for root, dirs, files in os.walk(location):
+            items = dirs if search_type == "directory" else files  # Determine whether to search files or directories
+            for item in items:
+                if fnmatch.fnmatch(item, keyword):  # Case-sensitive match
+                    found_items.append(os.path.join(root, item))
+
