@@ -11,3 +11,5 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 
 * Execution time tracking.
 
+* Color-coded terminal output (red highlights).
+
