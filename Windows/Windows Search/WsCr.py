@@ -55,3 +55,15 @@ def search_items(keyword, location, search_type):
                 if fnmatch.fnmatch(item, keyword):  # Case-sensitive match
                     found_items.append(os.path.join(root, item))
 
+  # Print the results in red
+        if found_items:
+            output += f"\033[31m{search_type.capitalize()}s found:\033[0m\n"
+            print(f"\033[31m{search_type.capitalize()}s found:\033[0m")  # Red text
+            print("=================");
+            for item in found_items:
+                output += f"{item}\n"
+                print(f"\033[31m{item}\033[0m")  # Red text for each item
+        else:
+            output += f"\033[31mNo {search_type}s found with the given pattern.\033[0m\n"
+            print(f"\033[31mNo {search_type}s found with the given pattern.\033[0m")  # Red text
+
