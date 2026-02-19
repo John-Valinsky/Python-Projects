@@ -44,3 +44,25 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 
 * Displays results and total search time.
 
+
+# Requirements
+
+* Windows OS.
+
+* Python 3.7+
+
+Built-in Libraries Used
+
+* os
+
+* fnmatch
+
+* time
+
+* string
+
+* re
+
+* ctypes (Windows API)
+
+This script will not work on macOS or Linux due to Windows-specific drive detection.
