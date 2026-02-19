@@ -66,3 +66,12 @@ Built-in Libraries Used
 * ctypes (Windows API)
 
 This script will not work on macOS or Linux due to Windows-specific drive detection.
+
+
+# Limitations
+
+* Case-sensitive matching
+
+* No multithreading (large drives may take time)
+
+* Windows-only support
