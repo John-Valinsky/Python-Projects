@@ -14,3 +14,18 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 * Color-coded terminal output (red highlights).
 
 * Optional export to .txt file.
+
+
+# Preview
+```bash
+                           _    _                                   
+                          | |  | | ___   ___  _ __                 
+                          | |/\| |/ __| / __|| '__|                
+                          \  /\  /\__ \| (__ | |                   
+                           \/  \/ |___/ \___||_|                   
+-----------------------------------------------------------------------------
+                       ~ ~  By John Valinsky  ~ ~
+-----------------------------------------------------------------------------
+```
+
+
