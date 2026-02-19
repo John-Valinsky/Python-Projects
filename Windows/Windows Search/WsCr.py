@@ -78,4 +78,18 @@ def search_items(keyword, location, search_type):
     except Exception as e:
         print(f"An error occurred: {e}")
 
+if __name__ == "__main__":
+    # Display available drives
+    drives = get_available_drives()
+    print("Available Drives:")
+    print("- - - - - - - -")
+    for drive in drives:
+        print(f"|  {drive}")
+    print("- - - - - - - -")
+
+    # Prompt user for search inputs
+    keyword = input("\nEnter the keyword or pattern to search for (*File*): ").strip()
+    location = input("Enter the directory to search in (C:\\): ").strip()
+
+
 
