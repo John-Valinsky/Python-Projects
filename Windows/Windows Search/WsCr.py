@@ -107,4 +107,11 @@ if __name__ == "__main__":
     elif location in drives or os.path.isdir(location):
         output = search_items(keyword, location, search_type)
 
+     # Ask the user if they want to save the output to a text file
+        save_choice = input("\nDo you want to save the output to a text file? (y/n): ").strip().lower()
+        if save_choice == 'y':
+            filename = f"{keyword}.txt"  # Use the search keyword as the filename
+            save_output_to_file(output, filename)
+    else:
+        print("The specified directory does not exist. Please try again.")
 
