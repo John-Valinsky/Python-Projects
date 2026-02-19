@@ -30,4 +30,17 @@ A simple but powerful Windows-only Python search utility that scans drives or di
 
 # How It Works
 
+* Detects all available Windows drives using ctypes.
+
+* Prompts the user for:
+
+	* Search pattern (example: *report*).
+
+	* Directory or drive (defaults to C:\).
+
+	* Search type: file or directory.
+
+* Recursively scans using os.walk.
+
+* Displays results and total search time.
 
