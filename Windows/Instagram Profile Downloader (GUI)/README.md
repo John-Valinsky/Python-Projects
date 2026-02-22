@@ -40,3 +40,14 @@ gallery-dl --version
 ```
 
 
+# How It Works
+
+* Enter an Instagram username (without @).
+
+* Select a download folder.
+
+* Click Start Download.
+
+* A command window opens showing download progress.
+
+* The window closes automatically when finished.
