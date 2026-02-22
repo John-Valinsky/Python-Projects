@@ -81,6 +81,13 @@ gallery-dl --version
 * Download type selection (posts, reels, stories).
 
 
+# Disclaimer
+
+* This tool is for educational and personal use only.
+
+* Respect Instagram’s Terms of Service and content ownership.
+
+
 # License
 
 MIT License
