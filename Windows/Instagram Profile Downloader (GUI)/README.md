@@ -18,3 +18,15 @@ Just enter a username, choose a folder, and click Start Download.
 * Automatically centers the app window.
 
 * Live status updates.
+
+
+# Requirements
+
+Make sure you have the following installed
+
+* Python 3.8+.
+
+* gallery-dl.
+
+* Windows OS (uses cmd to show download progress).
+
