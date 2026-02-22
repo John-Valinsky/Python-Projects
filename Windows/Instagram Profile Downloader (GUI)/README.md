@@ -51,3 +51,14 @@ gallery-dl --version
 * A command window opens showing download progress.
 
 * The window closes automatically when finished.
+
+
+# Limitations
+
+* Only public Instagram profiles are supported.
+
+* Private accounts will fail unless you configure gallery-dl authentication.
+
+* This tool does not bypass Instagram restrictions.
+
+* Designed primarily for Windows.
