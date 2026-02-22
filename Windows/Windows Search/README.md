@@ -1,3 +1,9 @@
+<!-- PROJECT SHIELDS -->
+![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Python-Projects)
+![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Python-Projects)
+![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Python-Projects)
+![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
+
 # Windows File & Directory Search Tool (Python)
 
 A simple but powerful Windows-only Python search utility that scans drives or directories for files or folders matching a wildcard pattern. It features an ASCII art banner, colored terminal output, timing stats, and optional export to a text file.
