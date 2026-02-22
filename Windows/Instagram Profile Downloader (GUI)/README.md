@@ -62,3 +62,14 @@ gallery-dl --version
 * This tool does not bypass Instagram restrictions.
 
 * Designed primarily for Windows.
+
+
+# Customization Ideas
+
+* Add login support via gallery-dl config.
+
+* Progress bar instead of status text.
+
+* Cross-platform support (Linux / macOS).
+
+* Download type selection (posts, reels, stories).
