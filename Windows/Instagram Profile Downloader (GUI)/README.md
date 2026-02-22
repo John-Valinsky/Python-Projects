@@ -30,3 +30,13 @@ Make sure you have the following installed
 
 * Windows OS (uses cmd to show download progress).
 
+Install gallery-dl via pip:
+```bash
+pip install gallery-dl
+```
+Verify installation:
+```bash
+gallery-dl --version
+```
+
+
