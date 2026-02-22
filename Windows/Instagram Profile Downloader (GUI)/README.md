@@ -1,3 +1,9 @@
+<!-- PROJECT SHIELDS -->
+![Repo Size](https://img.shields.io/github/repo-size/John-Valinsky/Python-Projects)
+![Last Commit](https://img.shields.io/github/last-commit/John-Valinsky/Python-Projects)
+![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Python-Projects)
+![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
+
 # Instagram Profile Downloader (GUI)
 
 A simple Python Tkinter GUI that lets you download all public content from an Instagram profile using gallery-dl — no terminal commands required.
