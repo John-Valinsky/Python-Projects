@@ -15,3 +15,7 @@ def browse_folder():
     if folder:
         folder_var.set(folder)
 
+def start_download():
+    account_name = account_var.get().strip()
+    save_dir = folder_var.get().strip()
+
