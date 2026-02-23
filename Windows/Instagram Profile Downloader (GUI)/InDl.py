@@ -38,3 +38,8 @@ def start_download():
         status_var.set(f"Download complete! Saved in:\n{save_dir}")
     except Exception as e:
         status_var.set(f"Download failed!\n{e}")
+
+root = tk.Tk()
+root.title("John Valinsky")
+center_window(root, 500, 250)
+root.resizable(False, False)
