@@ -19,3 +19,10 @@ def start_download():
     account_name = account_var.get().strip()
     save_dir = folder_var.get().strip()
 
+ if not account_name:
+        messagebox.showerror("Error", "Profile name cannot be empty.")
+        return
+    if not save_dir:
+        messagebox.showerror("Error", "Please select a download folder.")
+        return
+
