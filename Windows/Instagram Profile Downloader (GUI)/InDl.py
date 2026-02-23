@@ -46,3 +46,7 @@ root.resizable(False, False)
 
 frame = tk.Frame(root, padx=20, pady=20)
 frame.pack(fill="both", expand=True)
+
+tk.Label(frame, text="Instagram Username:", font=("Arial", 11)).grid(row=0, column=0, sticky="w")
+account_var = tk.StringVar()
+tk.Entry(frame, textvariable=account_var, width=30).grid(row=0, column=1, padx=10, pady=5)
