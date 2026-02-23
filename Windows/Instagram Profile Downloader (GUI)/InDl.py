@@ -28,3 +28,6 @@ def start_download():
 
  url = f"https://www.instagram.com/{account_name}/"
  cmd = ["gallery-dl", "-d", save_dir, url]
+
+ status_var.set("Downloading...")
+ root.update_idletasks()
