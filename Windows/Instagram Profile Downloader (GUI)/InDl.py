@@ -56,5 +56,5 @@ folder_var = tk.StringVar()
 tk.Entry(frame, textvariable=folder_var, width=30).grid(row=1, column=1, padx=10, pady=5)
 tk.Button(frame, text="Browse", command=browse_folder).grid(row=1, column=2, padx=5)
 
-
-
+tk.Button(frame, text="Start Download", command=start_download,
+          width=20, height=2, bg="lightblue").grid(row=7, column=0, columnspan=3, pady=15)
