@@ -31,3 +31,10 @@ def start_download():
 
  status_var.set("Downloading...")
  root.update_idletasks()
+
+     try:
+        # Open in a new cmd window, show output, then auto-close
+        subprocess.run(f'start cmd /c {" ".join(cmd)}', shell=True)
+        status_var.set(f"Download complete! Saved in:\n{save_dir}")
+    except Exception as e:
+        status_var.set(f"Download failed!\n{e}")
