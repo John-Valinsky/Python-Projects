@@ -26,3 +26,5 @@ def start_download():
         messagebox.showerror("Error", "Please select a download folder.")
         return
 
+ url = f"https://www.instagram.com/{account_name}/"
+ cmd = ["gallery-dl", "-d", save_dir, url]
