@@ -58,3 +58,9 @@ tk.Button(frame, text="Browse", command=browse_folder).grid(row=1, column=2, pad
 
 tk.Button(frame, text="Start Download", command=start_download,
           width=20, height=2, bg="lightblue").grid(row=7, column=0, columnspan=3, pady=15)
+
+status_var = tk.StringVar()
+status_label = tk.Label(frame, textvariable=status_var, font=("Arial", 10), fg="green", wraplength=450, justify="left")
+status_label.grid(row=3, column=0, columnspan=3, pady=10)
+
+root.mainloop()
