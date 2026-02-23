@@ -50,3 +50,11 @@ frame.pack(fill="both", expand=True)
 tk.Label(frame, text="Instagram Username:", font=("Arial", 11)).grid(row=0, column=0, sticky="w")
 account_var = tk.StringVar()
 tk.Entry(frame, textvariable=account_var, width=30).grid(row=0, column=1, padx=10, pady=5)
+
+tk.Label(frame, text="Save Folder:", font=("Arial", 11)).grid(row=1, column=0, sticky="w")
+folder_var = tk.StringVar()
+tk.Entry(frame, textvariable=folder_var, width=30).grid(row=1, column=1, padx=10, pady=5)
+tk.Button(frame, text="Browse", command=browse_folder).grid(row=1, column=2, padx=5)
+
+
+
