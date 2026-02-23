@@ -43,3 +43,6 @@ root = tk.Tk()
 root.title("John Valinsky")
 center_window(root, 500, 250)
 root.resizable(False, False)
+
+frame = tk.Frame(root, padx=20, pady=20)
+frame.pack(fill="both", expand=True)
