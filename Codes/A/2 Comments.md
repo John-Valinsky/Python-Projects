@@ -7,3 +7,7 @@
 
 # Comments
 
+# This is a single-line comment
+
+print("Python ignores comments")
+
