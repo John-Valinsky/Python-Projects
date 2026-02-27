@@ -1,4 +1,5 @@
-# Variables and Data Types
+Variables and Data Types
+========================
 
 name = "Alex"
 age = 21
