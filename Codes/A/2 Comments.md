@@ -1,5 +1,5 @@
-Comments
-========
+2 Comments
+==========
 
 # This is a single-line comment
 
