@@ -1,4 +1,4 @@
-1 Basic Print Function
+1 If Statement
 ======================
 
 age = int(input("Enter your age: "))
