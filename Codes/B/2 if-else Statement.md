@@ -1,4 +1,4 @@
-1 if Statement
+1 if-else Statement
 ======================
 
 age = int(input("Enter your age: "))
