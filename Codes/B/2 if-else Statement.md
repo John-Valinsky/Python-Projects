@@ -1,4 +1,4 @@
-1 if-else Statement
+2 if-else Statement
 ======================
 
 number = int(input("Enter a number: "))
