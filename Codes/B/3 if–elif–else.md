@@ -1,4 +1,4 @@
-2 if-else Statement
+3 if–elif–else
 ======================
 
 number = int(input("Enter a number: "))
