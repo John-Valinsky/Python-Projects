@@ -1,4 +1,4 @@
-5 Logical Operators
+6 Nested if
 ===================
 
 age = 22
