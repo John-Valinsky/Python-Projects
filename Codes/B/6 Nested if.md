@@ -10,3 +10,4 @@ if username == "admin":
     else:
         print("Wrong password")
 else:
+    print("Wrong username")
