@@ -1,5 +1,5 @@
-2 for loop user input
-=====================
+3 while loop
+============
 
 n = int(input("Enter a number: "))
 
