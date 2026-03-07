@@ -1,4 +1,4 @@
-1 for Loop
+2 for loop user input
 ===========
 
 for i in range(1, 6):
