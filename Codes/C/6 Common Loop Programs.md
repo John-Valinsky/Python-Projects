@@ -3,3 +3,4 @@
 
 # Sum of first n numbers
 n = int(input("Enter n: "))
+sum = 0
