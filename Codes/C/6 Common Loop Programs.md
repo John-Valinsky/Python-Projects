@@ -1,6 +1,3 @@
-5 Nested Loops
-==============
+6 Common Loop Programs
+======================
 
-for i in range(1, 4):
-    for j in range(1, 4):
-        print(i, j)
