@@ -4,3 +4,4 @@
 text = "Python Programming"
 
 print(text)
+print(text[0])      # First character
