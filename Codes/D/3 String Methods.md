@@ -2,3 +2,5 @@
 ================
 
 msg = "  hello python  "
+
+print(msg.upper())
