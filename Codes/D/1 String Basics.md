@@ -1,5 +1,3 @@
-1 for Loop
-===========
+1 String Basics
+===============
 
-for i in range(1, 6):
-    print(i)
