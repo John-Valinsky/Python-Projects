@@ -1,5 +1,5 @@
-5 String Formatting
-===================
+1 List Basics
+=============
 name = "Alex"
 age = 21
 
