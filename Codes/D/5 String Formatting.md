@@ -1,7 +1,2 @@
-4 Looping Through Strings
-=========================
-
-name = "Python"
-
-for char in name:
-    print(char)
+5 String Formatting
+===================
