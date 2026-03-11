@@ -4,3 +4,5 @@ student = {
     "name": "Alex",
     "age": 21,
     "marks": 85
+}
+
