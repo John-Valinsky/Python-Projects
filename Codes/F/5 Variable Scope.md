@@ -6,3 +6,4 @@ def show():
     x = 5
     print(x)
 
+show()
