@@ -1,5 +1,5 @@
-4 Keyword Arguments
-===================
+5 Variable Scope
+================
 def student(name, age):
     print(name, age)
 
