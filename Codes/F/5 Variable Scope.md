@@ -7,3 +7,4 @@ def show():
     print(x)
 
 show()
+print(x)
