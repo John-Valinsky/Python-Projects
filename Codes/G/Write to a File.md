@@ -1,5 +1,2 @@
-2 Random Module
+Write to a File
 ===============
-import random
-
-print(random.randint(1, 10))
