@@ -5,3 +5,4 @@ try:
     print(100 / num)
 except ZeroDivisionError:
     print("Cannot divide by zero")
+    print("Cannot divide by zero")
