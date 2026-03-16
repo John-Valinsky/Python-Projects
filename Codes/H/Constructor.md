@@ -6,3 +6,4 @@ class Student:
         self.age = age
 
 s1 = Student("Alex", 21)
+print(s1.name)
