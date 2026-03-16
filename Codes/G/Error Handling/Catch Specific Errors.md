@@ -6,3 +6,4 @@ try:
 except ZeroDivisionError:
     print("Cannot divide by zero")
 except ValueError:
+    print("Invalid input")
