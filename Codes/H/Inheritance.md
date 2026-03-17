@@ -1,2 +1,3 @@
 Inheritance
 ===========
+class Animal:
