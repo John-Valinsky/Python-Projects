@@ -1,3 +1,3 @@
 Encapsulation
 =============
-
+class Account:
