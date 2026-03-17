@@ -5,3 +5,5 @@ class Student:
 
     def display(self):
         print(self.name, self.marks)
+
+s1 = Student("Alex", 85)
