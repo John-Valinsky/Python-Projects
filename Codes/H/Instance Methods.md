@@ -7,3 +7,4 @@ class Student:
         print(self.name, self.marks)
 
 s1 = Student("Alex", 85)
+s1.display()
