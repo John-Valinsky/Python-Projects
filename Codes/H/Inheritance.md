@@ -5,3 +5,4 @@ class Animal:
         print("Animal speaks")
 
 class Dog(Animal):
+    def bark(self):
