@@ -6,3 +6,5 @@ class Account:
 
         def show_balance(self):
             print(self.__balance)
+
+acc = Account(1000)
