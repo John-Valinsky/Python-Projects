@@ -10,3 +10,5 @@ class Penguin(Bird):
 
 b = Bird()
 p = Penguin()
+
+b.fly()
