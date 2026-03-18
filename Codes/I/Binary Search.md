@@ -9,3 +9,4 @@ def binary_search(arr, target):
 
         if arr[mid] == target:
             return mid
+            return mid
