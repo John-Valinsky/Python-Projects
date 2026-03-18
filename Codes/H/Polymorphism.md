@@ -9,4 +9,4 @@ class Penguin(Bird):
         print("Penguin cannot fly")
 
 b = Bird()
-b = Bird()
+p = Penguin()
