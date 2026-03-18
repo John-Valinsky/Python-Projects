@@ -12,3 +12,4 @@ b = Bird()
 p = Penguin()
 
 b.fly()
+b.fly()
