@@ -6,3 +6,4 @@ class Bird:
 
 class Penguin(Bird):
     def fly(self):
+        print("Penguin cannot fly")
