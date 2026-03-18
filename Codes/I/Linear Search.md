@@ -7,3 +7,4 @@ def linear_search(arr, target):
     return -1
 
 nums = [10, 20, 30, 40, 50]
+print(linear_search(nums, 30))
