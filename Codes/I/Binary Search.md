@@ -14,3 +14,5 @@ def binary_search(arr, target):
         else:
             high = mid - 1
     return -1
+
+nums = [10, 20, 30, 40, 50]
