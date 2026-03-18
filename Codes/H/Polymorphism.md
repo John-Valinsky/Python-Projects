@@ -5,3 +5,4 @@ class Bird:
         print("Bird flies")
 
 class Penguin(Bird):
+    def fly(self):
