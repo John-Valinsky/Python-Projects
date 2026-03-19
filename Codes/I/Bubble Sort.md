@@ -8,3 +8,4 @@ def bubble_sort(arr):
 
 nums = [5, 3, 1, 4, 2]
 bubble_sort(nums)
+print(nums)
