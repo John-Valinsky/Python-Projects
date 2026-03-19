@@ -16,4 +16,4 @@ def binary_search(arr, target):
     return -1
 
 nums = [10, 20, 30, 40, 50]
-nums = [10, 20, 30, 40, 50]
+print(binary_search(nums, 40))
