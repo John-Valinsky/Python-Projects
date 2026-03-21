@@ -8,3 +8,4 @@ max_val = arr[0]
 for num in arr:
     total += num
     if num > max_val:
+        max_val = num
