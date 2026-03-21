@@ -9,3 +9,5 @@ for num in arr:
     total += num
     if num > max_val:
         max_val = num
+
+print("Sum:", total)
