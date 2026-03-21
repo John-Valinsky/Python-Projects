@@ -11,3 +11,4 @@ for num in arr:
         max_val = num
 
 print("Sum:", total)
+print("Max:", max_val)
