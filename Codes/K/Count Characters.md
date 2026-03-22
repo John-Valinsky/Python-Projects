@@ -1,2 +1,3 @@
 Count Characters
 ================
+s = "interview"
