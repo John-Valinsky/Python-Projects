@@ -1,2 +1,3 @@
 Character Traversal
 ===================
+s = "python"
