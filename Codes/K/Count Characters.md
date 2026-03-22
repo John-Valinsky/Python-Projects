@@ -8,3 +8,4 @@ for ch in s:
         freq[ch] += 1
     else:
         freq[ch] = 1
+print(freq)
