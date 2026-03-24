@@ -15,3 +15,4 @@ while left < right:
         found = True
         print(arr[left], arr[right])
         break
+    elif current_sum < target:
