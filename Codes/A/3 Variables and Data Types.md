@@ -9,4 +9,4 @@ is_student = True
 print(name)
 print(age)
 print(height)
-print(is_student
+print(is_student)
