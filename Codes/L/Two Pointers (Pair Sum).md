@@ -5,3 +5,5 @@ target = 6
 
 left = 0
 right = len(arr) - 1
+
+found = False
