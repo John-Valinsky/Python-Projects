@@ -19,3 +19,5 @@ while left < right:
         left += 1
     else:
         right -= 1
+
+print(found)
