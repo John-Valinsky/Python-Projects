@@ -13,3 +13,4 @@ while left < right:
 
     if current_sum == target:
         found = True
+        print(arr[left], arr[right])
