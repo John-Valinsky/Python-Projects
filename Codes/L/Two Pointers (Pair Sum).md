@@ -9,3 +9,4 @@ right = len(arr) - 1
 found = False
 
 while left < right:
+    current_sum = arr[left] + arr[right]
