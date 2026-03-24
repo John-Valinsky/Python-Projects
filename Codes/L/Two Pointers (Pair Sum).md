@@ -17,3 +17,4 @@ while left < right:
         break
     elif current_sum < target:
         left += 1
+        left += 1
