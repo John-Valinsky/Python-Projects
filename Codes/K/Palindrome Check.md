@@ -7,3 +7,4 @@ right = len(s) - 1
 is_palindrome = True
 
 while left < right:
+    if s[left] != s[right]:
