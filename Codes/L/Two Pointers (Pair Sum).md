@@ -10,3 +10,5 @@ found = False
 
 while left < right:
     current_sum = arr[left] + arr[right]
+
+    if current_sum == target:
