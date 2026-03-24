@@ -10,3 +10,4 @@ while left < right:
     if s[left] != s[right]:
         is_palindrome = False
         break
+    left += 1
