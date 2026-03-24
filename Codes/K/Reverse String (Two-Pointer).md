@@ -4,3 +4,5 @@ s = list("hello")
 left = 0
 right = len(s) - 1
 
+while left < right:
+
