@@ -11,3 +11,4 @@ while left < right:
         is_palindrome = False
         break
     left += 1
+    right -= 1
