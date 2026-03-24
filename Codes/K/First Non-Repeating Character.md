@@ -8,3 +8,4 @@ for ch in s:
 
 for ch in s:
     if freq[ch] == 1:
+        print(ch)
