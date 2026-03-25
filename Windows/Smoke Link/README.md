@@ -33,5 +33,8 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 ```bash
 <======= S M O K E   L I N K S =======>
 
+[ ORIGINAL URL ]
+[ CUSTOM DOMAIN ]
+[ CUSTOM WORDS ]
 
 ```
