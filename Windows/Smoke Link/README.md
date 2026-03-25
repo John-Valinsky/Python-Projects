@@ -112,6 +112,9 @@ This project helps you understand:
 
 * Clipboard handling.
 
-* Basic input validation
+* Basic input validation.
 
 * API interaction (URL shorteners).
+
+
+# Ethical Use Policy
