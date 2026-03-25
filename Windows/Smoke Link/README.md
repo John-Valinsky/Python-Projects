@@ -104,4 +104,6 @@ mask-domain-keywords@shortened-url
 
 This project helps you understand:
 
-* GUI development with tkinter
+* GUI development with tkinter.
+
+* HTTP requests with requests
