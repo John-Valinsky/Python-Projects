@@ -27,3 +27,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 * One-click copy to clipboard.
 
 * Input validation (no spaces in custom words).
+
+
+# Preview
