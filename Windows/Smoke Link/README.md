@@ -106,4 +106,8 @@ This project helps you understand:
 
 * GUI development with tkinter.
 
-* HTTP requests with requests
+* HTTP requests with requests.
+
+* Regex usage in Python.
+
+* 
