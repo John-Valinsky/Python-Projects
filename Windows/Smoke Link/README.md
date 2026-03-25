@@ -127,4 +127,17 @@ Using it for deception, phishing, or fraud may violate laws and ethical standard
 * Do NOT use for malicious purposes
 
 
-# 
+# Disclaimer
+
+This tool is created strictly for educational and research purposes only. It is intended to demonstrate concepts such as GUI development, URL handling, and network requests in Python.
+
+The author will not be responsible for any misuse of this tool.
+Any actions taken using this software are solely the responsibility of the user.
+
+By using this project, you agree that:
+
+You will not use it for phishing, fraud, or illegal activities
+You understand the ethical implications of manipulating URLs
+You accept full responsibility for any consequences resulting from its use
+
+Misuse of this tool may violate local, national, or international laws.
