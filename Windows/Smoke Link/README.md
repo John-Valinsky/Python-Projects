@@ -20,4 +20,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * URL shortening using is.gd.
 
-* Smart protocol handling (https:// auto-added)
+* Smart protocol handling (https:// auto-added).
+
+* Custom masked URL generation
