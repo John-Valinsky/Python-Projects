@@ -136,8 +136,8 @@ Any actions taken using this software are solely the responsibility of the user.
 
 By using this project, you agree that:
 
-You will not use it for phishing, fraud, or illegal activities
-You understand the ethical implications of manipulating URLs
-You accept full responsibility for any consequences resulting from its use
+* You will not use it for phishing, fraud, or illegal activities
+* You understand the ethical implications of manipulating URLs
+* You accept full responsibility for any consequences resulting from its use
 
 Misuse of this tool may violate local, national, or international laws.
