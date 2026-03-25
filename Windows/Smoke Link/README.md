@@ -38,5 +38,8 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 [ CUSTOM WORDS ]
 
 → Generate Link
-
+→ Copy Link
 ```
+
+
+# Requirements
