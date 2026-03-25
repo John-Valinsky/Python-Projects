@@ -46,4 +46,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * Python 3.x
 
-* Required libraries - 
+* Required libraries - pip install requests
+
+* 
