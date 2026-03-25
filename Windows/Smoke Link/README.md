@@ -65,3 +65,6 @@ Run the script
 python main.py
 ```
 
+
+# How It Works
+
