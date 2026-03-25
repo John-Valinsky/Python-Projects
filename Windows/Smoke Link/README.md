@@ -18,4 +18,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * Automatic URL validation (HTTP status check).
 
-* URL shortening using is.gd
+* URL shortening using is.gd.
+
+* Smart protocol handling (https:// auto-added)
