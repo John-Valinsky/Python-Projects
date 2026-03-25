@@ -37,4 +37,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 [ CUSTOM DOMAIN ]
 [ CUSTOM WORDS ]
 
+→ Generate Link
+
 ```
