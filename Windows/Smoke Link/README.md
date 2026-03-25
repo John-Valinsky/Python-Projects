@@ -95,5 +95,5 @@ mask-domain-keywords@shortened-url
 
 * Spaces are not allowed in custom words (→ Use - or _ instead).
 
-* 
+* URL reachability depends on network conditions
 
