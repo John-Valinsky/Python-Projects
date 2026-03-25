@@ -81,7 +81,10 @@ Normalize URLs (https://)
 Check if URLs are reachable
 Shorten the original URL
 
+
 Generate a masked URL format like:
+
 ```bash
 mask-domain-keywords@shortened-url
 ```
+
