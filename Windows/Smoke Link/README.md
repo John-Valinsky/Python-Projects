@@ -68,3 +68,8 @@ python main.py
 
 # How It Works
 
+1 Enter:
+
+Original URL
+Custom domain (mask)
+Optional keywords
