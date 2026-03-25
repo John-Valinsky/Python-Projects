@@ -4,4 +4,6 @@
 ![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Python-Projects)
 ![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
 
-# A simple Tkinter-based GUI tool for generating customized masked URLs with basic validation and shortening features.
+# SMOKE LINK
+
+A simple Tkinter-based GUI tool for generating customized masked URLs with basic validation and shortening features.
