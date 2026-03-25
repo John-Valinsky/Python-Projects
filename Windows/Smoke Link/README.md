@@ -73,3 +73,15 @@ python main.py
 Original URL
 Custom domain (mask)
 Optional keywords
+
+
+2 The app will:
+
+Normalize URLs (https://)
+Check if URLs are reachable
+Shorten the original URL
+
+Generate a masked URL format like:
+```bash
+mask-domain-keywords@shortened-url
+```
