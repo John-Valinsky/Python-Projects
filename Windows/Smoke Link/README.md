@@ -9,8 +9,6 @@
 
 A simple Tkinter-based GUI tool for generating customized masked URLs with basic validation and shortening features.
 
-Disclaimer: This project is for educational purposes only (e.g., learning GUI development, URL handling, and networking in Python). Do not use it for phishing, deception, or any illegal activity.
-
 
 # Features
 
