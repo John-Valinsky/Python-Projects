@@ -97,5 +97,8 @@ mask-domain-keywords@shortened-url
 
 * URL reachability depends on network conditions.
 
-* URL shortening uses a public API (is.gd)
+* URL shortening uses a public API (is.gd).
+
+
+# Learning Concepts
 
