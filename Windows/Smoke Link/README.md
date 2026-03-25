@@ -22,4 +22,8 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * Smart protocol handling (https:// auto-added).
 
-* Custom masked URL generation
+* Custom masked URL generation.
+
+* One-click copy to clipboard.
+
+* 
