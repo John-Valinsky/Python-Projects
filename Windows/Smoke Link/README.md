@@ -122,6 +122,6 @@ This project helps you understand:
 This tool demonstrates how URLs can be structured and manipulated.
 Using it for deception, phishing, or fraud may violate laws and ethical standards.
 
-* Use responsibly
+* Use responsibly.
 
-* 
+* Use for learning and experimentation.
