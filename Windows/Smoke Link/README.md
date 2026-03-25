@@ -45,3 +45,5 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 # Requirements
 
 * Python 3.x
+
+* Required libraries - 
