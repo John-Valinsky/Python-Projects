@@ -112,4 +112,6 @@ This project helps you understand:
 
 * Clipboard handling.
 
+* Basic input validation
+
 * 
