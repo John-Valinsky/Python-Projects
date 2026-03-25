@@ -13,3 +13,5 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 
 # Features
+
+Clean and simple Tkinter GUI
