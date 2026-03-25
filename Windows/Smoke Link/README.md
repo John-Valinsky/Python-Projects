@@ -125,3 +125,5 @@ Using it for deception, phishing, or fraud may violate laws and ethical standard
 * Use responsibly.
 
 * Use for learning and experimentation.
+
+* Do NOT use for malicious purposes
