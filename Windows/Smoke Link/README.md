@@ -93,5 +93,7 @@ mask-domain-keywords@shortened-url
 
 # Important Notes
 
-* Spaces are not allowed in custom words
+* Spaces are not allowed in custom words (→ Use - or _ instead).
+
+* 
 
