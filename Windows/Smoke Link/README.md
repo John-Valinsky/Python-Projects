@@ -48,4 +48,7 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * Required libraries - pip install requests
 
-* 
+* tkinter is usually included with Python by default.
+
+
+# How to Run
