@@ -88,3 +88,4 @@ Generate a masked URL format like:
 mask-domain-keywords@shortened-url
 ```
 
+3 Copy the generated link with one click.
