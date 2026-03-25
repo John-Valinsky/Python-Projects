@@ -110,4 +110,6 @@ This project helps you understand:
 
 * Regex usage in Python.
 
+* Clipboard handling.
+
 * 
