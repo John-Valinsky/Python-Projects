@@ -89,3 +89,6 @@ mask-domain-keywords@shortened-url
 ```
 
 3 Copy the generated link with one click.
+
+
+# Important Notes
