@@ -102,3 +102,4 @@ mask-domain-keywords@shortened-url
 
 # Learning Concepts
 
+This project helps you understand:
