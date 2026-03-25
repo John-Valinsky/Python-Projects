@@ -16,4 +16,6 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 
 * Clean and simple Tkinter GUI.
 
-* Automatic URL validation (HTTP status check)
+* Automatic URL validation (HTTP status check).
+
+* URL shortening using is.gd
