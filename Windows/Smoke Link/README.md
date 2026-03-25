@@ -54,7 +54,14 @@ Disclaimer: This project is for educational purposes only (e.g., learning GUI de
 # How to Run
 
 Clone the repository or download the repository
+
 ```bash
 git clone https://github.com/your-username/smoke-link-generator.git
+```
+
+Run the script
+
+```bash
+python main.py
 ```
 
