@@ -7,3 +7,4 @@ right = len(arr) - 1
 
 while left < right:
     arr[left], arr[right] = arr[right], arr[left]
+    arr[left], arr[right] = arr[right], arr[left]
