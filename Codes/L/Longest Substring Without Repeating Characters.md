@@ -8,3 +8,4 @@ max_len = 0
 
 for right in range(len(s)):
     while s[right] in char_set:
+        char_set.remove(s[left])
