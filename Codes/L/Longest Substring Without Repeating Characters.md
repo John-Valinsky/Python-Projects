@@ -11,4 +11,5 @@ for right in range(len(s)):
         char_set.remove(s[left])
         left += 1
 
-        left += 1
+    char_set.add(s[right])
+    max_len = max(max_len, right - left + 1)
