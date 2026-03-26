@@ -1,3 +1,5 @@
 # Reverse Array In-Place
 ========================
-Reverse Array In-Place
+arr = [1, 2, 3, 4, 5]
+
+left = 0
