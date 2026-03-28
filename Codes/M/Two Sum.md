@@ -10,3 +10,4 @@ for i, num in enumerate(arr):
     if needed in seen:
         print(seen[needed], i)
         break
+    seen[num] = i
