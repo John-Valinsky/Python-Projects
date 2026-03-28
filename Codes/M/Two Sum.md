@@ -9,3 +9,4 @@ for i, num in enumerate(arr):
     needed = target - num
     if needed in seen:
         print(seen[needed], i)
+        break
