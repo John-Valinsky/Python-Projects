@@ -1,11 +1,2 @@
-# First Repeating Element
-=========================
-arr = [10, 5, 3, 4, 3, 5, 6]
-
-seen = set()
-
-for num in arr:
-    if num in seen:
-        print(num)
-        break
-    seen.add(num)
+# Stack Basics (Using List)
+===========================
