@@ -14,3 +14,4 @@ for ch in s:
             valid = False
             break
 
+print(valid)
