@@ -6,4 +6,5 @@ stack = []
 pairs = {')': '(', ']': '[', '}': '{'}
 valid = True
 
-valid = True
+for ch in s:
+    if ch in pairs.values():
