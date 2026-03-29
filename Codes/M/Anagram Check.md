@@ -18,3 +18,4 @@ else:
         if freq[ch] == 0:
             del freq[ch]
     else:
+        print(True)
