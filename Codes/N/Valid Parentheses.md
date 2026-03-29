@@ -5,3 +5,5 @@ stack = []
 
 pairs = {')': '(', ']': '[', '}': '{'}
 valid = True
+
+valid = True
