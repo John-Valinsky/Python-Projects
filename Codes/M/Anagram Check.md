@@ -1,2 +1,3 @@
 # Anagram Check
 ===============
+s = "listen"
