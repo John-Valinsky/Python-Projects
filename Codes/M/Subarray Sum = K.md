@@ -12,3 +12,4 @@ for num in arr:
     if prefix_sum - k in seen:
         count += seen[prefix_sum - k]
     seen[prefix_sum] = seen.get(prefix_sum, 0) + 1
+print(count)
