@@ -2,3 +2,5 @@
 ===============
 s = "listen"
 t = "silent"
+
+if len(s) != len(t):
