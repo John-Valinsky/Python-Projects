@@ -12,4 +12,5 @@ for ch in s:
     else:
         if not stack or stack.pop() != pairs[ch]:
             valid = False
+            break
 
