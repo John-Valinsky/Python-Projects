@@ -13,3 +13,4 @@ else:
     for ch in t:
         if ch not in freq:
             print(False)
+            break
