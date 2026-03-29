@@ -9,3 +9,4 @@ count = 0
 
 for num in arr:
     prefix_sum += num
+    if prefix_sum - k in seen:
