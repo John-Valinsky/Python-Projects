@@ -15,3 +15,4 @@ else:
             print(False)
             break
         freq[ch] -= 1
+        if freq[ch] == 0:
