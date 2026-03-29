@@ -1,3 +1,5 @@
 # First Repeating Element
 =========================
-First Repeating Element
+arr = [10, 5, 3, 4, 3, 5, 6]
+
+seen = set()
