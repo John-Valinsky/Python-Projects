@@ -14,3 +14,4 @@ else:
         if ch not in freq:
             print(False)
             break
+        freq[ch] -= 1
