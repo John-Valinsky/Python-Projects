@@ -17,3 +17,4 @@ else:
         freq[ch] -= 1
         if freq[ch] == 0:
             del freq[ch]
+    else:
