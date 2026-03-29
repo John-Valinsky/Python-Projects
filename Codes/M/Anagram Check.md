@@ -7,4 +7,5 @@ if len(s) != len(t):
     print(False)
 else:
     freq = {}
+    for ch in s:
 
