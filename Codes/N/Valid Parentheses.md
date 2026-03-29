@@ -1,3 +1,4 @@
 # Valid Parentheses
 ===================
 s = "()[]{}"
+stack = []
