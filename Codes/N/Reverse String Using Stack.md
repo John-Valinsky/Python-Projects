@@ -7,3 +7,4 @@ for ch in s:
     stack.append(ch)
 
 rev = ""
+while stack:
