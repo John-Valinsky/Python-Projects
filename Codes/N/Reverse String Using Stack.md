@@ -5,3 +5,5 @@ stack = []
 
 for ch in s:
     stack.append(ch)
+
+rev = ""
