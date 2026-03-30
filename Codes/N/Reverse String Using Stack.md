@@ -8,3 +8,4 @@ for ch in s:
 
 rev = ""
 while stack:
+    rev += stack.pop()
