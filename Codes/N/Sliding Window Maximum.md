@@ -9,3 +9,4 @@ result = []
 
 for i in range(len(arr)):
     while dq and dq[0] <= i - k:
+        dq.popleft()
