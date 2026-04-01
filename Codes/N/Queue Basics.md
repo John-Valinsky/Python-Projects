@@ -8,3 +8,4 @@ q.append(20)
 q.append(30)
 
 print(q.popleft())  # 10
+print(q)
