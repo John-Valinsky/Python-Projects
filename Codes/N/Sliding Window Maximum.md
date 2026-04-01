@@ -13,3 +13,5 @@ for i in range(len(arr)):
 
     while dq and arr[dq[-1]] < arr[i]:
         dq.pop()
+
+    dq.append(i)
