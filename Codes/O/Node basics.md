@@ -6,3 +6,4 @@ class Node:
         self.next = None
 
 n1 = Node(10)
+n2 = Node(20)
