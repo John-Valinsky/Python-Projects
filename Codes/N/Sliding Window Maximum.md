@@ -17,3 +17,4 @@ for i in range(len(arr)):
     dq.append(i)
 
     if i >= k - 1:
+        result.append(arr[dq[0]])
