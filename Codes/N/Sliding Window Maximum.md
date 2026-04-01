@@ -15,3 +15,5 @@ for i in range(len(arr)):
         dq.pop()
 
     dq.append(i)
+
+    if i >= k - 1:
