@@ -8,4 +8,6 @@ class Node:
 n1 = Node(10)
 n2 = Node(20)
 
-n2 = Node(20)
+n1.next = n2
+
+print(n1.data)
