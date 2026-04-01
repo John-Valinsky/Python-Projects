@@ -1,2 +1,3 @@
 # Node basics
 =============
+class Node:
