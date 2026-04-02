@@ -12,3 +12,4 @@ class LinkedList:
     def print_list(self):
         temp = self.head
         while temp:
+            print(temp.data, end=" -> ")
