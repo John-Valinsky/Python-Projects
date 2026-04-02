@@ -18,3 +18,4 @@ class LinkedList:
 
 ll = LinkedList()
 ll.head = Node(1)
+ll.head.next = Node(2)
