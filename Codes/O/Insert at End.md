@@ -6,3 +6,4 @@ def insert_end(head, data):
         return new_node
 
     temp = head
+    while temp.next:
