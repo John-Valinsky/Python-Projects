@@ -10,3 +10,4 @@ def insert_end(head, data):
         temp = temp.next
 
     temp.next = new_node
+    return head
