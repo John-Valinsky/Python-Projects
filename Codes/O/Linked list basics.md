@@ -20,3 +20,5 @@ ll = LinkedList()
 ll.head = Node(1)
 ll.head.next = Node(2)
 ll.head.next.next = Node(3)
+
+ll.print_list()
