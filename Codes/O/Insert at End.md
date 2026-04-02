@@ -4,3 +4,5 @@ def insert_end(head, data):
     new_node = Node(data)
     if not head:
         return new_node
+
+    temp = head
