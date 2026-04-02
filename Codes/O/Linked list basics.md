@@ -10,3 +10,4 @@ class LinkedList:
         self.head = None
 
     def print_list(self):
+        temp = self.head
