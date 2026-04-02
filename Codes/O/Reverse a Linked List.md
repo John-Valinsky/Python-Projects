@@ -8,3 +8,5 @@ while current:
     current.next = prev
     prev = current
     current = nxt
+
+head = prev
