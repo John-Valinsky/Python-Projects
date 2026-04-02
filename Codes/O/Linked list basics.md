@@ -15,3 +15,5 @@ class LinkedList:
             print(temp.data, end=" -> ")
             temp = temp.next
         print("None")
+
+ll = LinkedList()
