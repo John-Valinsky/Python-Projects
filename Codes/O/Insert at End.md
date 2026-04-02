@@ -7,3 +7,4 @@ def insert_end(head, data):
 
     temp = head
     while temp.next:
+        temp = temp.next
