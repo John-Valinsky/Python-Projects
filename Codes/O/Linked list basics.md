@@ -17,3 +17,4 @@ class LinkedList:
         print("None")
 
 ll = LinkedList()
+ll.head = Node(1)
