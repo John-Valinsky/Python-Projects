@@ -1,12 +1,3 @@
-# Reverse a Linked List
-=======================
-prev = None
-current = head
+# Detect Cycle
+==============
 
-while current:
-    nxt = current.next
-    current.next = prev
-    prev = current
-    current = nxt
-
-head = prev
