@@ -5,3 +5,4 @@ def preorder(node):
         return
     print(node.val, end=" ")
     preorder(node.left)
+    preorder(node.right)
