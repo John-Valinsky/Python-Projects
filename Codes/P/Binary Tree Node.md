@@ -8,4 +8,6 @@ class TreeNode:
 
 root = TreeNode(1)
 root.left = TreeNode(2)
-root.left = TreeNode(2)
+root.right = TreeNode(3)
+
+print(root.val, root.left.val, root.right.val)
