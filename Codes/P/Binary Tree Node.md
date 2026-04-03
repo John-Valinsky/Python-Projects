@@ -6,4 +6,4 @@ class TreeNode:
         self.left = None
         self.right = None
 
-    
+root = TreeNode(1)
