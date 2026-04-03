@@ -6,3 +6,5 @@ def preorder(node):
     print(node.val, end=" ")
     preorder(node.left)
     preorder(node.right)
+
+preorder(root)
