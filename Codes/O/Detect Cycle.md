@@ -1,3 +1,5 @@
 # Detect Cycle
 ==============
-Detect Cycle
+slow = head
+fast = head
+
