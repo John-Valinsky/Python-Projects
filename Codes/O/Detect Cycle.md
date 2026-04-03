@@ -10,3 +10,4 @@ while fast and fast.next:
     fast = fast.next.next
     if slow == fast:
         has_cycle = True
+        break
