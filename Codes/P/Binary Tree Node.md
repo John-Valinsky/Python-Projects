@@ -7,3 +7,4 @@ class TreeNode:
         self.right = None
 
 root = TreeNode(1)
+root.left = TreeNode(2)
