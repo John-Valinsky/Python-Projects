@@ -1,0 +1,12 @@
+# Reverse a Linked List
+=======================
+prev = None
+current = head
+
+while current:
+    nxt = current.next
+    current.next = prev
+    prev = current
+    current = nxt
+
+head = prev
