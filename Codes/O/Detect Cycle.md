@@ -11,3 +11,5 @@ while fast and fast.next:
     if slow == fast:
         has_cycle = True
         break
+
+print(has_cycle)
