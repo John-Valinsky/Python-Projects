@@ -2,3 +2,4 @@
 =================
 def preorder(node):
     if not node:
+        return
