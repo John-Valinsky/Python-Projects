@@ -1,15 +1,2 @@
-# Detect Cycle
-==============
-slow = head
-fast = head
-
-has_cycle = False
-
-while fast and fast.next:
-    slow = slow.next
-    fast = fast.next.next
-    if slow == fast:
-        has_cycle = True
-        break
-
-print(has_cycle)
+# Binary Tree Node
+==================
