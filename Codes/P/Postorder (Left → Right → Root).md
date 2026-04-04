@@ -5,3 +5,4 @@ def postorder(node):
         return
     postorder(node.left)
     postorder(node.right)
+    print(node.val, end=" ")
