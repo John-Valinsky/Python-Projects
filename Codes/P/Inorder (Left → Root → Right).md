@@ -5,3 +5,4 @@ def inorder(node):
         return
     inorder(node.left)
     print(node.val, end=" ")
+    inorder(node.right)
