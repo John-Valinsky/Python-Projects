@@ -6,3 +6,5 @@ def inorder(node):
     inorder(node.left)
     print(node.val, end=" ")
     inorder(node.right)
+
+inorder(root)
