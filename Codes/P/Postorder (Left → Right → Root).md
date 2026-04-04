@@ -2,3 +2,4 @@
 =================================
 def postorder(node):
     if not node:
+        return
