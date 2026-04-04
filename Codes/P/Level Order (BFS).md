@@ -11,3 +11,4 @@ def level_order(root):
         print(node.val, end=" ")
         if node.left:
             q.append(node.left)
+        if node.right:
