@@ -6,3 +6,4 @@ def level_order(root):
     if not root:
         return
     q = deque([root])
+    while q:
