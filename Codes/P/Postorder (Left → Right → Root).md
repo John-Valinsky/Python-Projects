@@ -6,3 +6,5 @@ def postorder(node):
     postorder(node.left)
     postorder(node.right)
     print(node.val, end=" ")
+
+postorder(root)
