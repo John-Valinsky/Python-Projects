@@ -8,3 +8,4 @@ def level_order(root):
     q = deque([root])
     while q:
         node = q.popleft()
+        print(node.val, end=" ")
