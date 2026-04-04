@@ -13,3 +13,5 @@ def level_order(root):
             q.append(node.left)
         if node.right:
             q.append(node.right)
+
+level_order(root)
