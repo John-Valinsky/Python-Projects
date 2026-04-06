@@ -7,3 +7,4 @@ def bst_insert(root, val):
         root.left = bst_insert(root.left, val)
     else:
         root.right = bst_insert(root.right, val)
+    return root
