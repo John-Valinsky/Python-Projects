@@ -7,3 +7,4 @@ def bfs(graph, start):
     q = deque([start])
 
     while q:
+        node = q.popleft()
