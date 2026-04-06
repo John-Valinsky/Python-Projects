@@ -10,3 +10,4 @@ def bst_insert(root, val):
     return root
 
 root = TreeNode(10)
+bst_insert(root, 5)
