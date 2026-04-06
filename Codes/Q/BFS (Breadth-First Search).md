@@ -9,3 +9,5 @@ def bfs(graph, start):
     while q:
         node = q.popleft()
         if node not in visited:
+            print(node, end=" ")
+            visited.add(node)
