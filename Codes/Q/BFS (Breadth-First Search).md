@@ -11,3 +11,5 @@ def bfs(graph, start):
         if node not in visited:
             print(node, end=" ")
             visited.add(node)
+            q.extend([n for n in graph[node] if n not in visited])
+
