@@ -4,3 +4,4 @@ from collections import deque
 
 def bfs(graph, start):
     visited = set()
+    q = deque([start])
