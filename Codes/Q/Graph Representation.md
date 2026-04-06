@@ -8,3 +8,5 @@ graph = {
     4: [1, 5],
     5: [4]
 }
+
+print(graph[1])  # neighbors of node 1
