@@ -3,3 +3,4 @@
 def bst_insert(root, val):
     if not root:
         return TreeNode(val)
+    if val < root.val:
