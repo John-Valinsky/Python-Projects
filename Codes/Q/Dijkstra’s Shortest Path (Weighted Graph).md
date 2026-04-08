@@ -10,3 +10,5 @@ graph = {
 }
 
 def dijkstra(graph, start):
+    heap = [(0, start)]
+    dist = {node: float('inf') for node in graph}
