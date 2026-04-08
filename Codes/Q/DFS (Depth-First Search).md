@@ -5,3 +5,5 @@ def dfs(graph, node, visited=None):
         visited = set()
     visited.add(node)
     print(node, end=" ")
+
+        for neighbor in graph[node]:
