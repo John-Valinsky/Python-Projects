@@ -9,4 +9,5 @@ def dfs(graph, node, visited=None):
         for neighbor in graph[node]:
         if neighbor not in visited:
             dfs(graph, neighbor, visited)
+            
 dfs(graph, 0)
