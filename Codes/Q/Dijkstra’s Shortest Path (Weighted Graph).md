@@ -21,3 +21,5 @@ def dijkstra(graph, start):
         for neighbor, weight in graph[node]:
             if dist[node] + weight < dist[neighbor]:
                 dist[neighbor] = dist[node] + weight
+                heapq.heappush(heap, (dist[neighbor], neighbor))
+    return dist
