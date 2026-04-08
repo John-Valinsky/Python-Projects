@@ -8,3 +8,5 @@ def has_cycle(graph, node, visited, parent):
                 return True
         elif neighbor != parent:
             return True
+    return False
+visited = set()
