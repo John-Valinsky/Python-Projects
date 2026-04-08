@@ -12,3 +12,6 @@ graph = {
 def dijkstra(graph, start):
     heap = [(0, start)]
     dist = {node: float('inf') for node in graph}
+    dist[start] = 0
+
+        while heap:
