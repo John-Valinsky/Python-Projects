@@ -6,3 +6,5 @@ def has_cycle(graph, node, visited, parent):
         if neighbor not in visited:
             if has_cycle(graph, neighbor, visited, node):
                 return True
+        elif neighbor != parent:
+            return True
