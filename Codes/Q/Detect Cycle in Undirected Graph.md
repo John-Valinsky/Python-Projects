@@ -9,4 +9,6 @@ def has_cycle(graph, node, visited, parent):
         elif neighbor != parent:
             return True
     return False
+    
 visited = set()
+print(has_cycle(graph, 0, visited, -1))
