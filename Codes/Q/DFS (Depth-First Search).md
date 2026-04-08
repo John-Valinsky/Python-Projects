@@ -6,8 +6,8 @@ def dfs(graph, node, visited=None):
     visited.add(node)
     print(node, end=" ")
 
-        for neighbor in graph[node]:
+    for neighbor in graph[node]:
         if neighbor not in visited:
             dfs(graph, neighbor, visited)
-            
+
 dfs(graph, 0)
