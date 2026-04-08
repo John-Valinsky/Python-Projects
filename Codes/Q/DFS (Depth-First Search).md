@@ -7,3 +7,4 @@ def dfs(graph, node, visited=None):
     print(node, end=" ")
 
         for neighbor in graph[node]:
+        if neighbor not in visited:
