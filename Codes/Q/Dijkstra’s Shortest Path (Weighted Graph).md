@@ -19,3 +19,5 @@ def dijkstra(graph, start):
         if d > dist[node]:
             continue
         for neighbor, weight in graph[node]:
+            if dist[node] + weight < dist[neighbor]:
+                dist[neighbor] = dist[node] + weight
