@@ -16,3 +16,4 @@ def dijkstra(graph, start):
 
     while heap:
         d, node = heapq.heappop(heap)
+        if d > dist[node]:
