@@ -17,3 +17,5 @@ class Trie:
         node.is_end = True
     def search(self, word):
         node = self.root
+        for ch in word:
+            if ch not in node.children:
