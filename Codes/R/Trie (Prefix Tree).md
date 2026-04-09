@@ -24,3 +24,4 @@ class Trie:
         return node.is_end
 
 trie = Trie()
+trie.insert("hello")
