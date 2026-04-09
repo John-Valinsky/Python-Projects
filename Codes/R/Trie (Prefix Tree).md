@@ -14,3 +14,4 @@ class Trie:
             if ch not in node.children:
                 node.children[ch] = TrieNode()
             node = node.children[ch]
+        node.is_end = True
