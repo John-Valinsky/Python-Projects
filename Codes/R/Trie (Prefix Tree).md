@@ -8,7 +8,7 @@ class TrieNode:
 class Trie:
     def __init__(self):
         self.root = TrieNode()
-        
+
     def insert(self, word):
         node = self.root
         for ch in word:
@@ -16,6 +16,7 @@ class Trie:
                 node.children[ch] = TrieNode()
             node = node.children[ch]
         node.is_end = True
+        
     def search(self, word):
         node = self.root
         for ch in word:
