@@ -11,3 +11,5 @@ class Trie:
     def insert(self, word):
         node = self.root
         for ch in word:
+            if ch not in node.children:
+                node.children[ch] = TrieNode()
