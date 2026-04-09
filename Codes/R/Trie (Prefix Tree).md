@@ -25,3 +25,4 @@ class Trie:
 
 trie = Trie()
 trie.insert("hello")
+print(trie.search("hello"))
