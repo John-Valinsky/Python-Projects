@@ -19,3 +19,5 @@ class Trie:
         node = self.root
         for ch in word:
             if ch not in node.children:
+                return False
+            node = node.children[ch]
