@@ -5,4 +5,5 @@ class TrieNode:
         self.children = {}
         self.is_end = False
 
-        class Trie:
+class Trie:
+    def __init__(self):
