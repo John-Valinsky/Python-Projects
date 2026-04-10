@@ -12,3 +12,5 @@ def build(arr):
     for i in range(n - 1, 0, -1):
         tree[i] = tree[2 * i] + tree[2 * i + 1]
     return tree
+
+arr = [1, 2, 3, 4]
