@@ -6,3 +6,6 @@ def build(arr):
 
     # insert leaves
     for i in range(n):
+        tree[n + i] = arr[i]
+
+    # build tree
