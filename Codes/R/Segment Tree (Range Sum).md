@@ -14,3 +14,5 @@ def build(arr):
     return tree
 
 arr = [1, 2, 3, 4]
+tree = build(arr)
+print(tree)
