@@ -10,3 +10,4 @@ def build(arr):
 
     # build tree
     for i in range(n - 1, 0, -1):
+        tree[i] = tree[2 * i] + tree[2 * i + 1]
