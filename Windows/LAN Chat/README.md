@@ -42,7 +42,6 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 * Open port: 5555.
 
-![Project Banner](Image.png)
 
 # How It Works
 
@@ -54,6 +53,7 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 * yping /quit exits (or shuts down the server).
 
+![Project Banner](Image.png)
 
 # Server Mode
 
