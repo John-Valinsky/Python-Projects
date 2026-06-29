@@ -6,8 +6,6 @@
 
 ![Project Banner](Image.jpg)
 
-![Project Banner](Image.png)
-
 # LAN Terminal Chat
 
 A lightweight local network chat application built with Python sockets and threading.
@@ -44,6 +42,7 @@ Messages are color-coded for clarity, and everything runs directly in the consol
 
 * Open port: 5555.
 
+![Project Banner](Image.png)
 
 # How It Works
 
