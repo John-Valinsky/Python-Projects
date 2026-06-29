@@ -4,6 +4,8 @@
 ![Open Issues](https://img.shields.io/github/issues/John-Valinsky/Python-Projects)
 ![Stars](https://img.shields.io/github/stars/John-Valinsky/Python-Projects)
 
+![Project Banner](Image.png)
+
 # LAN Terminal Chat
 
 A lightweight local network chat application built with Python sockets and threading.
