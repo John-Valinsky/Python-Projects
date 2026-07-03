@@ -66,6 +66,7 @@ Designed for simple, unattended file duplication on Windows.
 
 No external dependencies required.
 
+![Project Banner](Image.png)
 
 # Limitations
 
