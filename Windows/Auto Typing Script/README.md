@@ -100,6 +100,7 @@ pip install pyautogui keyboard
 
 * Content drafting assistance.
 
+![Project Banner](Image.png)
 
 # Safety Notes
 
