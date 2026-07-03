@@ -198,6 +198,7 @@ print("\nFirewall rules applied successfully.")
 input("\nPress Enter to exit...")
 ```
 
+![Project Banner](Image.png)
 
 # License
 
