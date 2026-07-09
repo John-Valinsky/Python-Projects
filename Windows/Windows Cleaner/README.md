@@ -96,6 +96,8 @@ open_folder("Prefetch")
 open_disk_cleanup()
 ```
 
+![Project Banner](Image.png)
+
 
 # License
 
