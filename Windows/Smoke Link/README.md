@@ -88,6 +88,7 @@ mask-domain-keywords@shortened-url
 
 3 Copy the generated link with one click.
 
+![Project Banner](Image.png)
 
 # Important Notes
 
