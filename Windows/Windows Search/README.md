@@ -84,7 +84,6 @@ This script will not work on macOS or Linux due to Windows-specific drive detect
 
 ![Project Banner](Image.png)
 
-
 # License
 
 MIT License
