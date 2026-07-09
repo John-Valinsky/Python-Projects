@@ -98,7 +98,6 @@ open_disk_cleanup()
 
 ![Project Banner](Image.png)
 
-
 # License
 
 MIT License
