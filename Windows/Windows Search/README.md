@@ -82,6 +82,8 @@ This script will not work on macOS or Linux due to Windows-specific drive detect
 
 * Windows-only support
 
+![Project Banner](Image.png)
+
 
 # License
 
