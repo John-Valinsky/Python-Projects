@@ -53,6 +53,8 @@ Output
 * The app displays the tithe amount instantly.
 
 
+![Project Banner](Image.png)
+
 # Code Highlights
 
 * Uses tkinter for GUI components.
