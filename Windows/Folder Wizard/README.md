@@ -36,6 +36,7 @@ Includes a slick ASCII banner and smart defaults to keep things smooth.
 
 No external dependencies required.
 
+![Project Banner](Image.png)
 
 # Example Output
 ```bash
